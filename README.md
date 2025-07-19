@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-I am a computer scientist passionate about artificial intelligence, and more recently biology.
-
-Currently on a deep dive into microscopy image analysis with cutting-edge machine learning techniques in an [awesome research group at EPFL🇨🇭](https://www.epfl.ch/labs/weigert-lab/).
+I am a computer scientist passionate about artificial intelligence and biology.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bentaculum&hide=stars&show_icons=true&hide_rank=true&include_all_commits=true&theme=vue&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
